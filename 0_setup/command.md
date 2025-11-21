@@ -1,3 +1,7 @@
+# first set up of git
+`git config --global user.email "you@example.com"`
+`git config --global user.name "your Name"`
+
 # basic git commads
 `git clone url` clones a git repository from the url \
 \
