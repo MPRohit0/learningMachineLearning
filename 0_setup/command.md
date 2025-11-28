@@ -9,7 +9,9 @@
 \
 `git commit -m "reason"` commits the change \
 \
-`git push origin master` adds the changed to the github repository
+`git push origin master` adds the changed to the github repository \
+\
+`git branch` - check which branch you are in
 
 # Getting up a environment 
 
@@ -25,7 +27,11 @@
 
 `conda list` list of all the dependencies in the enviroment
 
-`conda env remove --name myeve` - deletes environment
+`conda env remove --name myeve` - deletes environment \
+
+we use `conda-forge`channel for wider varity of packages 
+
+`conda install -c conda-forge scikit-learn`
 
 
 <p>
